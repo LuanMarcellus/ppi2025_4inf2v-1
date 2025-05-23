@@ -9,7 +9,7 @@ export function MyText() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ipsum,
           aliquid alias nemo consectetur dignissimos delectus quos nisi deleniti
           obcaecati vitae dolorem fuga, neque placeat laborum deserunt maiores
-          mollitia? Excepturi?
+          mollitia? Excepturi?dsdadasdsadhsuadasidsaidsadsadsadsadauidhsaudsa
         </p>
       </div>
     </div>
